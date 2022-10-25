@@ -2,6 +2,11 @@
 
 NestJs es un marco de trabajo que por debajo usa Express o Fastify. NestJs mantiene un orden, gerarquia y forma de llamar cada archivo. Por ende 2 APIs creadas con NestJs seran muy parecidas entre si. Y por defecto usa TypeScript.
 
+## Nota
+
+[Aquí](https://torch-neighbor-933.notion.site/NestJS-e4c57083bd9f4e4b984cae9f0f8e6c56) tienes las notas en Notion
+⌨️ con ❤️ por [QuaCode](https://github.com/QuaCode) 😊
+
 ## ¿Por qué usarlo?
 
 Usar NestJs nos da un mejor soporte, una mejor API para su consumo y facilidad de lectura de codigo.
